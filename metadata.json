@@ -1,0 +1,6 @@
+{
+  "name": "ScamShield AI - Enterprise Fraud & Threat Intelligence",
+  "description": "AI-powered real-time scam and fraud detection platform with deep payload forensics, URL analysis, smishing/phishing interceptor, and incident response triage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
